@@ -1,1 +1,2 @@
 # Amazon-Sales
+[Amazon sales dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzQ3NzYxN2YtYTZhZi00NjMzLTgxOTctYmNkNmU0ZTBmYmZkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
